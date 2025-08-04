@@ -1,4 +1,4 @@
-# 🛍️ BolderFit Sales & Customer Performance Dashboard
+#  BolderFit Sales & Customer Performance Dashboard
 
 This project presents an interactive Power BI dashboard that analyzes customer behavior, sales performance, product trends, and payment channel efficiency for **BolderFit**, an athletic gear store operating via the Shopify platform.
 
@@ -7,7 +7,7 @@ This project presents an interactive Power BI dashboard that analyzes customer b
 
 ---
 
-## 🧠 About the Business
+##  About the Business
 
 **BolderFit** is a modern athletic and outdoor gear brand specializing in high-performance shoes and fitness apparel. Their store operates on Shopify and serves customers across the United States.
 
@@ -15,7 +15,7 @@ This dashboard helps BolderFit gain clarity on customer retention, product sales
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze sales performance by product type, region, and day
 - Segment customers into single-order vs repeat buyers
@@ -25,7 +25,7 @@ This dashboard helps BolderFit gain clarity on customer retention, product sales
 
 ---
 
-## 📦 Data Overview
+##  Data Overview
 
 | Field | Description |
 |-------|-------------|
@@ -41,18 +41,18 @@ This dashboard helps BolderFit gain clarity on customer retention, product sales
 
 ---
 
-## 📊 Key KPIs
+##  Key KPIs
 
-- 💵 **Net Sales**: $4.18M  
-- 📦 **Total Quantity Sold**: 7.53K  
-- 👥 **Total Customers**: 4,431  
-- 🔁 **Repeat Customers**: 2,039 (Repeat Rate: 46.02%)  
-- 💳 **Top Payment Gateway**: Shopify Payments (58.45%)  
-- 🏃‍♂️ **Top Products**: Running Shoes, Tennis Shoes
+-  **Net Sales**: $4.18M  
+-  **Total Quantity Sold**: 7.53K  
+-  **Total Customers**: 4,431  
+-  **Repeat Customers**: 2,039 (Repeat Rate: 46.02%)  
+-  **Top Payment Gateway**: Shopify Payments (58.45%)  
+-  **Top Products**: Running Shoes, Tennis Shoes
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Power BI** – Data modeling and dashboarding
 - **DAX** – KPIs and customer segmentation
@@ -60,7 +60,7 @@ This dashboard helps BolderFit gain clarity on customer retention, product sales
 
 ---
 
-## 📍 Regional Insights
+##  Regional Insights
 
 - Highest sales in **Washington, Houston, New York**
 - Clear trends by **state and city**
@@ -68,13 +68,13 @@ This dashboard helps BolderFit gain clarity on customer retention, product sales
 
 ---
 
-## 📌 Live Demo
+##  Live Demo
 
-> 🚀 [Click to View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmQyMDMxNWEtYzFkNy00NjhlLWIyYWMtMmFjN2QzMGYyMzMwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=3ca1aec96db9440b2107)
+>  [Click to View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmQyMDMxNWEtYzFkNy00NjhlLWIyYWMtMmFjN2QzMGYyMzMwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=3ca1aec96db9440b2107)
 
 ---
 
-## 🙌 Author
+##  Author
 
 **Brume Pascal Opitien**  
 [LinkedIn](https://www.linkedin.com/in/pascalbrume) • [Portfolio](https://pascalbrume-portfolio.lovable.app)
