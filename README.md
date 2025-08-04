@@ -81,5 +81,11 @@ This dashboard helps BolderFit gain clarity on customer retention, product sales
 
 ---
 
+## 🖼️ Screenshots
 
+### 🔹 Dashboard View  
+![Dashboard Screenshot](images/dashboard-view1.png)
+
+### 🔹 Data Table View  
+![Table Screenshot](images/dashboard-view2.png)
 
